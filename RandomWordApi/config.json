@@ -1,0 +1,19 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ApiConfig": {
+    "ApiKey": "70171a38ada045d68fe6f3e5a519986c",
+    "BaseUrl": "https://randommer.io/api/",
+    "FirstNameUrl": "Name?nameType=firstname&quantity=",
+    "LastNameUrl": "Name?nameType=surname&quantity=",
+    "DefaultFileLocation": "C:\\temp\\",
+    "DefaultFileName": "employees.csv",
+    "DefaultEmployeeCount":  3000
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDataGenerator", "EmployeeDataGenerator.csproj", "{91F233A7-7FBA-4255-A77B-2F9B7BE286B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGeneratorApi", "..\DataGeneratorApi\DataGeneratorApi.csproj", "{12BA71BB-22C1-4522-8902-B3828FDA8EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F233A7-7FBA-4255-A77B-2F9B7BE286B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F233A7-7FBA-4255-A77B-2F9B7BE286B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F233A7-7FBA-4255-A77B-2F9B7BE286B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F233A7-7FBA-4255-A77B-2F9B7BE286B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BA71BB-22C1-4522-8902-B3828FDA8EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BA71BB-22C1-4522-8902-B3828FDA8EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BA71BB-22C1-4522-8902-B3828FDA8EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BA71BB-22C1-4522-8902-B3828FDA8EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5C1C21-7B58-459C-88BD-4AE800DE717B}
+	EndGlobalSection
+EndGlobal
